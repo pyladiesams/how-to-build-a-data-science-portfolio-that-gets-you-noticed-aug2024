@@ -1,6 +1,6 @@
 # How to Build a Data Science Portfolio That Gets You Noticed
 
-## Meetup description
+## Topic
 In today's competitive job market, having a standout data science portfolio is essential. During this talk, you'll learn a step-by-step process for building an impressive data science portfolio that gets you noticed. We'll cover everything from choosing the best projects to mastering data visualization and avoiding common beginner mistakes.
 We'll start by discussing how to select projects that showcase your skills and align with industry demands. You'll learn the importance of curating a diverse range of projects that demonstrate your ability to tackle various data science challenges.
 
